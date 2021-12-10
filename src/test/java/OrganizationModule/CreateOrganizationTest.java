@@ -10,7 +10,10 @@ public class CreateOrganizationTest {
 		System.out.println(" Organization is modified by Padhu, commit-2");
 		System.out.println("Modification done in Github");
 		System.out.println("Create a pull request , commit-5");
-		System.out.println("Changes made by Padhu, commit-7");
+
+
+		System.out.println("Changes done by User-2, commit-7");
+
 		
 	}
 	
