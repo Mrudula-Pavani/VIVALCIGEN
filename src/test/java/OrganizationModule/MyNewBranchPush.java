@@ -8,5 +8,8 @@ public class MyNewBranchPush {
 		System.out.println("my new commit -1");
 		System.out.println("my new commit -2");
 		System.out.println("my new commit -3");
+		System.out.println("my new commit -4 from new user");
+		System.out.println("my new commit -4 from new user");
+		System.out.println("my new commit -4 from new user");
 	}
 }
