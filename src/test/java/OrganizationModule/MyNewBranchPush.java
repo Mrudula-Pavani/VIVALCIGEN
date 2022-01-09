@@ -6,5 +6,6 @@ public class MyNewBranchPush {
 	@Test
 	public void branch() {
 		System.out.println("my new commit -1");
+		System.out.println("my new commit -2");
 	}
 }
